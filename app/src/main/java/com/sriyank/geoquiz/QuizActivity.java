@@ -17,7 +17,8 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 public class QuizActivity extends AppCompatActivity {
-
+    //this comment is for testing purposes yeah yeah
+    //this comment is for testing purposes
     private static final String TAG="QuizActivity";
     private static final String KEY_INDEX="index";
     private static final String KEY_SCORE="score";
